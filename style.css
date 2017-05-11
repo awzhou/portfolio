@@ -4,8 +4,9 @@ ul {
     padding: 0;
     overflow: hidden;
     position: fixed;
-    top: 0;
+    top: 25;
     background-color: green;
+    width: 100%;
 }
 
 li {
