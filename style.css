@@ -69,7 +69,7 @@ li.dropdown {
 }
 
 #myBtn:hover {
-    background-color: #555; /* Add a dark-grey background on hover */
+    background-color: lime; /* Add a dark-grey background on hover */
 }
 
 .gochi {font-family: 'Gochi Hand', sans-serif;}
